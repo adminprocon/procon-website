@@ -93,7 +93,7 @@ svg{width:1em;height:1em;flex-shrink:0;display:inline-block;vertical-align:middl
 }
 .brand{display:flex;align-items:center}
 .brand__chip{display:flex; align-items:center}
-.brand__chip img{height:64px;width:auto;display:block}
+.brand__chip img{height:90px;width:auto;display:block}
 
 .nav-pills{
   position:relative; display:flex; align-items:center; gap:1px;
@@ -150,7 +150,7 @@ svg{width:1em;height:1em;flex-shrink:0;display:inline-block;vertical-align:middl
   .navbar__toggle{display:flex}
 }
 @media (max-width:380px){
-  .brand__chip img{height:50px}
+  .brand__chip img{height:80px}
 }
 
 /* mobile drawer */
